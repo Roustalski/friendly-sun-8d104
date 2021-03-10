@@ -90,6 +90,10 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
+  - section_id: recent-posts
+    type: section_posts
+    background: gray
+    title: Latest Posts
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
@@ -98,10 +102,6 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
