@@ -3,7 +3,7 @@
     "palette": "blue",
     "header": {
         "logo_img": "images/timoteus logoCOLOR.png",
-        "logo_img_alt": "Timóteus Társaság",
+        "logo_img_alt": "Timóteus Társaság Test",
         "has_nav": true,
         "nav_links": [
             {
