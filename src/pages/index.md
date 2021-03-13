@@ -104,7 +104,9 @@ sections:
         style: primary
 seo:
   title: Timóteus Társaság
-  description: The preview of the Azimuth theme
+  description: >-
+    A Timóteus Társaság célkitűzése, hogy az emberek megismerhessék Istent,
+    növekedjenek a hitükben és segítsenek másoknak.
   extra:
     - name: 'og:type'
       value: website
